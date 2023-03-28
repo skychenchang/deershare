@@ -13,7 +13,7 @@
 
 1. Get code
 ```
-git clone https://github.com/fanchangyong/deershare
+git clone https://github.com/skychenchang/deershare
 ```
 
 2. Install dependencies
